@@ -1,0 +1,85 @@
+02:10:15.429 [main] INFO  - the user navigates to login page
+02:10:16.978 [main] INFO  - user enters email as {string} and password as {string}
+02:10:17.764 [main] INFO  - the user clicks on the Login button
+02:10:19.567 [main] INFO  - the user should be redirected to the MyAccount Page
+01:24:48.040 [main] INFO  - the user navigates to login page
+01:24:49.241 [main] INFO  - user enters email as {string} and password as {string}
+01:24:50.049 [main] INFO  - the user clicks on the Login button
+01:24:51.061 [main] INFO  - the user should be redirected to the MyAccount Page
+01:24:57.572 [main] INFO  - the user navigates to login page
+01:24:59.221 [main] INFO  - user enters email as {string} and password as {string}
+01:24:59.922 [main] INFO  - the user clicks on the Login button
+01:25:00.909 [main] INFO  - the user should be redirected to the MyAccount Page
+01:25:07.614 [main] INFO  - the user navigates to login page
+01:25:09.135 [main] INFO  - user enters email as {string} and password as {string}
+01:25:09.778 [main] INFO  - the user clicks on the Login button
+01:25:10.603 [main] INFO  - the user should be redirected to the MyAccount Page
+01:33:11.023 [main] INFO  - the user navigates to login page
+01:33:12.231 [main] INFO  - user enters email as {string} and password as {string}
+01:33:12.842 [main] INFO  - the user clicks on the Login button
+01:33:14.055 [main] INFO  - the user should be redirected to the MyAccount Page
+01:33:24.450 [main] INFO  - the user navigates to login page
+01:33:26.609 [main] INFO  - user enters email as {string} and password as {string}
+01:33:27.401 [main] INFO  - the user clicks on the Login button
+01:33:28.740 [main] INFO  - the user should be redirected to the MyAccount Page
+01:33:38.723 [main] INFO  - the user navigates to login page
+01:33:39.602 [main] INFO  - user enters email as {string} and password as {string}
+01:33:40.268 [main] INFO  - the user clicks on the Login button
+01:33:41.050 [main] INFO  - the user should be redirected to the MyAccount Page
+02:24:28.815 [main] INFO  - the user navigates to login page
+02:24:29.508 [main] INFO  - user enters email as {string} and password as {string}
+02:24:29.962 [main] INFO  - the user clicks on the Login button
+02:24:30.748 [main] INFO  - the user should be redirected to the MyAccount Page
+02:24:35.484 [main] INFO  - the user navigates to login page
+02:24:36.964 [main] INFO  - user enters email as {string} and password as {string}
+02:24:37.583 [main] INFO  - the user clicks on the Login button
+02:24:38.419 [main] INFO  - the user should be redirected to the MyAccount Page
+02:24:46.657 [main] INFO  - the user navigates to login page
+02:24:47.347 [main] INFO  - user enters email as {string} and password as {string}
+02:24:47.794 [main] INFO  - the user clicks on the Login button
+02:24:48.639 [main] INFO  - the user should be redirected to the MyAccount Page
+22:50:29.073 [main] INFO  - the user navigates to login page
+22:50:30.383 [main] INFO  - user enters email as {string} and password as {string}
+22:50:30.985 [main] INFO  - the user clicks on the Login button
+22:50:32.109 [main] INFO  - the user should be redirected to the MyAccount Page
+22:50:38.860 [main] INFO  - the user navigates to login page
+22:50:40.833 [main] INFO  - user enters email as {string} and password as {string}
+22:50:41.480 [main] INFO  - the user clicks on the Login button
+22:50:42.520 [main] INFO  - the user should be redirected to the MyAccount Page
+22:50:48.229 [main] INFO  - the user navigates to login page
+22:50:49.703 [main] INFO  - user enters email as {string} and password as {string}
+22:50:50.515 [main] INFO  - the user clicks on the Login button
+22:50:51.102 [main] INFO  - the user should be redirected to the MyAccount Page
+09:47:50.409 [main] INFO  - the user navigates to login page
+09:47:52.016 [main] INFO  - user enters email as {string} and password as {string}
+09:47:52.914 [main] INFO  - the user clicks on the Login button
+09:47:54.054 [main] INFO  - the user should be redirected to the MyAccount Page
+09:48:00.941 [main] INFO  - the user navigates to login page
+09:48:02.932 [main] INFO  - user enters email as {string} and password as {string}
+09:48:03.820 [main] INFO  - the user clicks on the Login button
+09:48:04.709 [main] INFO  - the user should be redirected to the MyAccount Page
+19:12:02.948 [main] INFO  - the user navigates to login page
+19:12:04.131 [main] INFO  - user enters email as {string} and password as {string}
+19:12:06.164 [main] INFO  - the user should be redirected to the MyAccount Page
+19:12:13.852 [main] INFO  - the user navigates to login page
+19:12:15.394 [main] INFO  - user enters email as {string} and password as {string}
+19:12:16.997 [main] INFO  - the user should be redirected to the MyAccount Page
+19:12:22.499 [main] INFO  - the user navigates to login page
+19:12:24.645 [main] INFO  - user enters email as {string} and password as {string}
+19:12:42.091 [main] INFO  - sgfksjdhfjskdfjsd
+19:12:45.920 [main] INFO  - ksjdgfksdkj
+19:21:48.416 [main] INFO  - the user navigates to login page
+19:21:49.810 [main] INFO  - user enters email as {string} and password as {string}
+19:21:50.963 [main] INFO  - the user should be redirected to the MyAccount Page
+10:41:33.757 [main] INFO  - the user navigates to login page
+10:41:40.219 [main] INFO  - the user navigates to login page
+10:41:48.577 [main] INFO  - the user navigates to login page
+10:41:56.737 [main] INFO  - sgfksjdhfjskdfjsd
+10:41:58.927 [main] INFO  - ksjdgfksdkj
+10:32:48.965 [main] INFO  - the user navigates to login page
+10:33:00.321 [main] INFO  - the user navigates to login page
+10:33:08.288 [main] INFO  - the user navigates to login page
+10:33:17.892 [main] INFO  - sgfksjdhfjskdfjsd
+10:33:20.833 [main] INFO  - ksjdgfksdkj
+10:39:27.467 [main] INFO  - sgfksjdhfjskdfjsd
+10:39:29.493 [main] INFO  - ksjdgfksdkj
